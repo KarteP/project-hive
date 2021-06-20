@@ -1,0 +1,5 @@
+[
+  { "title": "Satellite Data", "icon": "satellite" },
+  { "title": "My Profile", "icon": "settings" },
+  { "title": "About us", "icon": "info" }
+]
