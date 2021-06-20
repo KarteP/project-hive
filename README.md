@@ -1,5 +1,7 @@
 # Project Hive
 
+https://project-hive-b5018.web.app/
+
 Tutorials were used to build the website and add Google Map with search boxes.
 https://medium.com/@rachidsakara/how-to-deploy-vue-js-applications-with-firebase-hosting-40cfa7f724e4
 
