@@ -47,7 +47,6 @@
 <script>
 import Vue from "vue";
 import VeeValidate from "vee-validate";
-import { submitServiceOrder } from "@/firebase.service.js";
 
 Vue.use(VeeValidate);
 
