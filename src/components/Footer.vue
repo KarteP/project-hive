@@ -1,6 +1,6 @@
 <template>
   <v-footer color="black darken-4" dark>
-    <div>&copy; {{ new Date().getFullYear() }} by Project Hive</div>
+    <div>&copy; {{ new Date().getFullYear() }} by Project Hive.</div>
   </v-footer>
 </template>
 
