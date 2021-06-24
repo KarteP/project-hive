@@ -6,7 +6,7 @@
                     :width="870"
                     :height="600"
                     :lat="59.4370"
-                    :lon="-24.7536" />
+                    :lng="24.7536" />
       </div>
     </v-card>
   </v-flex>
@@ -39,6 +39,8 @@ export default {
         {lat: 59.4166, lng:24.6954}, //Löwenruh Park
         {lat: 59.4166, lng:24.6954},
         {lat: 59.4166, lng:24.6954},
+        {lat: 59.4339, lng:24.6954},
+        {lat: 59.4339, lng:24.6954},
         {lat: 59.4339, lng:24.6954},
         {lat: 59.4357, lng:24.7524}, //Politseipark
         {lat: 59.4357, lng:24.7524},
