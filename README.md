@@ -15,6 +15,9 @@ https://forum.vuejs.org/t/google-maps-api-custom-popups-example-code-breaks-in-v
 Heatmap
 https://www.npmjs.com/package/vue-google-heatmap
 
+## Documentation and notes about CREODIAS API (for further development purposes)
+https://docs.google.com/document/d/1OWjS5RRqchOP0uKZq0wMr-naYGgoLaLP-Ya4z5Vhs88/edit?usp=sharing
+
 ## Project setup
 
 ```
